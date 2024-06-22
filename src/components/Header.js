@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+// Styled header container
 const HeaderContainer = styled.header`
   text-align: center;
   padding: 1rem;
