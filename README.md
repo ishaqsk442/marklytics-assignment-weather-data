@@ -2,7 +2,7 @@ Project Description
 ===================
 The Weather Dashboard is an interactive and visually appealing web application built using React. It visualizes mock weather data to demonstrate various skills in React development, including component structure, state management, and UI design. The dashboard features a line chart and a bar chart to display weather trends and precipitation levels, respectively. Users can interact with the dashboard by selecting different cities from a dropdown menu. The application is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
 
-Netlify link : 
+Netlify link : https://ishaqshaik-marklytics.netlify.app/
 
 Setup Instructions
 =================
